@@ -74,6 +74,8 @@ Este repositorio reemplaza el informe final del proyecto, documentando de forma 
 Proyecto desarrollado para el curso **ME4250-2 — Mecatrónica**, semestre 2026-1, Departamento de Ingeniería Mecánica, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile.
  
 Agradecemos al **Laboratorio de Mecatrónica y Robótica (LEMUR)** por facilitar el espacio, herramientas de fabricación (impresión 3D y corte láser) y equipos utilizados durante el desarrollo del proyecto.
+
+Agradecemos también al **FabLab** por el corte láser e impresión 3D de las piezas del robot.
  
 ---
  
