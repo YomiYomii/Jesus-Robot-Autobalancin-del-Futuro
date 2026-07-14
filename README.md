@@ -25,3 +25,58 @@ El robot utiliza un **sensor/giroscopio MPU6050** para medir su ángulo de incli
 El desarrollo pasó por múltiples iteraciones de diseño CAD y prototipado físico (impresión 3D FDM y corte láser en acrílico), hasta llegar a una versión final que integra mejoras estéticas (cruz de LEDs, brazos de alambre, cabeza) y estructurales (mejor manejo de cableado y sujeción de componentes).
  
 Este repositorio reemplaza el informe final del proyecto, documentando de forma abierta y reproducible todo el proceso de diseño, fabricación, electrónica y control.
+
+## Galería del proyecto
+ 
+| Prototipo final | Diagrama de control | Constantes PID |
+|:---:|:---:|:---:|
+| ![Prototipo](docs/images/prototipo_final.jpg) | ![Diagrama de bloques](docs/images/diagrama_bloques.png) | ![PID](docs/images/constantes_pid.png) |
+ 
+| Iteración 1 | Iteración 2-3 y versión final |
+|:---:|:---:|
+| ![Iteración 1](docs/images/iteracion_1.jpg) | ![Iteraciones](docs/images/iteraciones_2_3_final.jpg) |
+ 
+> 📌 Más imágenes y videos del proceso y resultados experimentales en [`registros_audiovisuales/`](./registros_audiovisuales/).
+ 
+---
+ 
+## Estructura del repositorio
+ 
+```
+├── README.md                     # Este archivo
+├── CAD/                          # Modelos y planos de fabricación
+│   ├── Fusion360/                # Archivos nativos .f3d / .f3z
+│   ├── STEP/                     # Exportaciones .step
+│   └── planos_corte_laser/       # Planos 2D para corte láser (.dxf/.pdf)
+├── componentes_y_materiales/     # Lista de materiales (BOM)
+│   └── BOM.md (o .xlsx)
+├── codigo/                       # Firmware del robot
+│   ├── src/                      # Código Arduino IDE comentado
+│   └── diagrama_logica.png       # Diagrama de flujo del programa
+├── diagramas_electronicos_y_control/
+│   ├── esquematico_electrico.png
+│   └── diagrama_control_PID.png
+└── registros_audiovisuales/      # Fotos y videos de avances/resultados
+```
+ 
+---
+ 
+## Integrantes
+ 
+- Esteban Ortiz
+- Millaray González
+- Valentina Gómez
+- Vicente Leiva
+---
+ 
+## Curso y agradecimientos
+ 
+Proyecto desarrollado para el curso **ME4250-2 — Mecatrónica**, semestre 2026-1, Departamento de Ingeniería Mecánica, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile.
+ 
+Agradecemos al **Laboratorio de Mecatrónica y Robótica (LEMUR)** por facilitar el espacio, herramientas de fabricación (impresión 3D y corte láser) y equipos utilizados durante el desarrollo del proyecto.
+ 
+---
+ 
+## Referencias
+ 
+- Zorman. *Jesucristo, el robot del futuro* (canción, 2013). Inspiración estética del proyecto.
