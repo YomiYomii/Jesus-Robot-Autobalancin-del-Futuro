@@ -36,9 +36,9 @@ const int PwmL  = 10;
 const int PwmR  = 9;    
 
 // CONSTANTES PID AJUSTADAS 
-float Kp = 10.2;
-float Kd = 0.4;  
-float Ki = 0.6375; 
+float Kp = 80.0;
+float Kd = 1;  
+float Ki = 0.05; 
 
 float setpoint = 0.0;   // Se calculará automáticamente en el setup dinámico
 float angulo_actual = 0;    //Valor asociado al ángulo que detecta en el momento el sensor 
