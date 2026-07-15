@@ -9,7 +9,9 @@ Esta carpeta contiene la documentación gráfica del sistema electrónico y de c
 
 ## Diagrama esquemático electrónico
  
-**Archivo:** `esquematico_electrico.png` (o `.pdf` / `.fzz` si se exporta desde Fritzing/KiCad)
+<p align="center">
+  <img src="Multimedia/Fotos/diagrama de conexiones.jpeg" alt="Diagrama de conexiones del robot" width="500"/>
+</p>
  
 Muestra las conexiones físicas entre todos los componentes electrónicos del robot:
  
