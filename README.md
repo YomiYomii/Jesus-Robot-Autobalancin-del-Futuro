@@ -7,7 +7,10 @@
   <i>Robot auto-balancín de 2 ruedas con control PID, inspirado en "Jesucristo, el robot del futuro" de Zorman.</i>
 </p>
 
-## Índice
+<p align="center">
+  <img src="/Multimedia/Fotos/inspo.jpeg" width="300" alt="Inspiración: Jesucristo, el robot del futuro" /><br>
+  <i>Referencia de inspiración.</i>
+</p>
  
 - [Descripción](#-descripción)
 - [Galería del proyecto](#-galería-del-proyecto)
