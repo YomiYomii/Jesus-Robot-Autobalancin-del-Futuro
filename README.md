@@ -34,7 +34,7 @@ Este repositorio reemplaza el informe final del proyecto, documentando de forma 
  
 | Iteración 1 | Iteración 2-3 y versión final |
 |:---:|:---:|
-| ![Iteración 1](docs/images/iteracion_1.jpg) | ![Iteraciones](docs/images/iteraciones_2_3_final.jpg) |
+| ![Iteración 1](/Multimedia/Fotos/iteracion_1/primer_diseño_cad_(5).jpeg) | ![Iteraciones](docs/images/iteraciones_2_3_final.jpg) |
  
 > 📌 Más imágenes y videos del proceso y resultados experimentales en [`registros_audiovisuales/`](./registros_audiovisuales/).
  
