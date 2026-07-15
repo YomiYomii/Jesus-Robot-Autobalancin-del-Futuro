@@ -27,16 +27,16 @@ El desarrollo pasó por múltiples iteraciones de diseño CAD y prototipado fís
 Este repositorio reemplaza el informe final del proyecto, documentando de forma abierta y reproducible todo el proceso de diseño, fabricación, electrónica y control.
 
 ## Galería del proyecto
- 
+
 | Prototipo final | Diagrama de control | Constantes PID |
 |:---:|:---:|:---:|
-| ![Prototipo](docs/images/prototipo_final.jpg) | ![Diagrama de bloques](docs/images/diagrama_bloques.png) | ![PID](docs/images/constantes_pid.png) |
- 
+| ![Prototipo](/Multimedia/Fotos/prototipo_final.jpg) | ![Diagrama de bloques](/Multimedia/Fotos/diagrama_bloques.png) | ![PID](/Multimedia/Fotos/constantes_pid.png) |
+
 | Iteración 1 | Iteración 2-3 y versión final |
 |:---:|:---:|
-| ![Iteración 1](/Multimedia/Fotos/iteracion_1/primer_diseño_cad_(5).jpeg) | ![Iteraciones](docs/images/iteraciones_2_3_final.jpg) |
- 
-> 📌 Más imágenes y videos del proceso y resultados experimentales en [`registros_audiovisuales/`](./registros_audiovisuales/).
+| <img src="/Multimedia/Fotos/Iteración%201/primer_diseño_cad_1.jpeg" alt="Iteración 1" width="400"/> | ![Iteraciones](/Multimedia/Fotos/iteraciones_2_3_final.jpg) |
+
+> 📌 Más imágenes y videos del proceso y resultados experimentales en [`Multimedia/`](/Multimedia/).
  
 ---
  
