@@ -55,7 +55,7 @@ Este repositorio reemplaza el informe final del proyecto, documentando de forma 
 │   ├── STEP/                     # Exportaciones .step
 │   └── planos_corte_laser/       # Planos 2D para corte láser (.dxf/.pdf)
 ├── componentes_y_materiales/     # Lista de materiales (BOM)
-│   └── BOM.md (o .xlsx)
+│   └── BOM.md
 ├── codigo/                       # Firmware del robot
 │   ├── src/                      # Código Arduino IDE comentado
 │   └── diagrama_logica.png       # Diagrama de flujo del programa
