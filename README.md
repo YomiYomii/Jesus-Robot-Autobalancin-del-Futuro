@@ -30,7 +30,7 @@ Este repositorio reemplaza el informe final del proyecto, documentando de forma 
 
 | Prototipo final | Diagrama de control | Constantes PID |
 |:---:|:---:|:---:|
-| ![Prototipo](/Multimedia/Fotos/prototipo_final.jpg) | ![Diagrama de bloques](/Multimedia/Fotos/diagrama_bloques.png) | ![PID](/Multimedia/Fotos/constantes_pid.png) |
+| <img src="/Multimedia/Fotos/Prototipo%20final/prototipo_final_fisico_oficial.jpeg" alt="Prototipo" width="200"/> | <img src="Multimedia/Fotos/diagrama_bloques.jpeg" alt="Diagrama de bloques" width="450"/> | <img src="Multimedia/Fotos/constantes.jpeg" alt="PID" width="150"/> |
 
 
 | Iteración 1 | Iteración 2 |
