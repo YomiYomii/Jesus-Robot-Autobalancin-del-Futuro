@@ -39,7 +39,7 @@ Este repositorio reemplaza el informe final del proyecto, documentando de forma 
 
 | Iteración 3 | Prototipo final |
 |:---:|:---:|
-| <img src="/Multimedia/Fotos/Iteración%203/iteracion_3_1.jpeg" alt="Iteración 3" width="400"/> <img src="/Multimedia/Fotos/Iteración%203/iteracion_3_fisico_1.jpeg" alt="Iteración 3" width="400"/> | <img src="/Multimedia/Fotos/prototipo_final.jpg" alt="Prototipo final" width="200"/> |
+| <img src="/Multimedia/Fotos/Iteración%203/iteracion_3_1.jpeg" alt="Iteración 3" width="400"/> <img src="/Multimedia/Fotos/Iteración%203/iteracion_3_fisico_1.jpeg" alt="Iteración 3" width="400"/> | <img src="/Multimedia/Fotos/Prototipo final/prototipo_final_2.jpeg" alt="Prototipo final" width="400"/> <img src="Multimedia/Fotos/Prototipo final/prototipo_final_fisico_2.jpeg" alt="Prototipo final" width="400"/>|
 
 
 > 📌 Más imágenes y videos del proceso y resultados experimentales en [`Multimedia/`](/Multimedia/).
