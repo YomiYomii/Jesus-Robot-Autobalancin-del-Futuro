@@ -35,7 +35,7 @@ Este repositorio reemplaza el informe final del proyecto, documentando de forma 
 
 | Iteración 1 | Iteración 2 |
 |:---:|:---:|
-| <img src="/Multimedia/Fotos/Iteración%201/primer_diseño_cad_1.jpeg" alt="Iteración 1" width="400"/> | <img src="/Multimedia/Fotos/iteraciones_2_3_final.jpg" alt="Iteración 2" width="200"/> |
+| <img src="/Multimedia/Fotos/Iteración%201/primer_diseño_cad_1.jpeg" alt="Iteración 1" width="400"/> | <img src="/Multimedia/Fotos/Iteración%202/iteracion_2_4.jpeg" alt="Iteración 2" width="400"/> |
 
 | Iteración 3 | Prototipo final |
 |:---:|:---:|
