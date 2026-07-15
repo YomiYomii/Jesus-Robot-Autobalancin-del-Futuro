@@ -1,1 +1,5 @@
+## Diagrama lógica 
 
+<p align="center">
+  <img src="/Código/diagrama_logica_codigo.jpeg" alt="Diagrama de conexiones del robot" width="500"/>
+</p>
