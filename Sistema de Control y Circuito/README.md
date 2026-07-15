@@ -38,7 +38,9 @@ Muestra las conexiones físicas entre todos los componentes electrónicos del ro
  
 ## Diagrama del sistema de control
  
-**Archivo:** `diagrama_control_PID.png`
+<p align="center">
+  <img src="/Multimedia/Fotos/diagrama_bloques.jpeg" alt="Diagrama de conexiones del robot" width="500"/>
+</p>
  
 Representa el **diagrama de bloques en lazo cerrado** que describe cómo el robot mantiene el equilibrio:
  
